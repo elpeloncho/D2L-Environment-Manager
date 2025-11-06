@@ -248,4 +248,4 @@ Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más det
 
 ---
 
-** Si este script te fue útil, considera darle una estrella en GitHub!**
+Si este script te fue útil, considera darle una estrella en GitHub!
