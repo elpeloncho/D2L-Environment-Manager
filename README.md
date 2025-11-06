@@ -36,7 +36,7 @@ eval "$(pyenv init -)"
 pyenv --version
 ```
 
-📚 Más información: [https://github.com/pyenv/pyenv#installation](https://github.com/pyenv/pyenv#installation)
+Más información: [https://github.com/pyenv/pyenv#installation](https://github.com/pyenv/pyenv#installation)
 
 ### 2. Python 3.9 (obligatorio)
 
